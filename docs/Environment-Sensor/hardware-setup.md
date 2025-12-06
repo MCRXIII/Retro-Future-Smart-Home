@@ -4,6 +4,6 @@
 
 ## 接线图
 
-![ESP32与DHT11接线图](../images/env-sensor-bread-board.jpg)
+![ESP32与DHT11接线图](images/env-sensor-bread-board.jpg)
 
-![ESP32与DHT11接线图](../images/env-sensor-schematic.jpg)
+![ESP32与DHT11接线图](images/env-sensor-schematic.jpg)

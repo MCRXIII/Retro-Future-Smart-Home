@@ -1,4 +1,4 @@
-# Concept and Prototype for the “Retrofuturism” Age-Friendly Smart Home Project
+# Concept and Prototype for the “Retro-futuristic” Age-Friendly Smart Home Project
 
 [中文版](README_ZH.md) is available.
 
@@ -10,7 +10,7 @@ This project stems from my observations and reflections on the lives of the elde
 
 I aspire for individuals in their twilight years—even when facing declining health or memory loss—to live with dignity. This pursuit is fundamentally detached from economic trends; it represents my most primal and essential motivation.
 
-Thus, designing an age-friendly smart home system is imperative. Its foundational principles are “low learning curve, robust design, and core open-source.” It must achieve:
+Thus, designing an age-friendly smart home system is imperative. Its foundational principles are “low learning curve, robustness, and core open-source.” It must achieve:
 
 
 ### Design Principle 1: Instinctive Interaction
@@ -21,13 +21,13 @@ Thus, I will adopt a “retrofuturistic” design philosophy, minimizing redunda
 The original iPhone exemplifies this success. A five-year-old with no prior exposure to smart devices could master its operation within minutes. This was achieved through its skeuomorphic UI design (e.g., settings icons resembling metal gears, the phone icon as a handset) and intuitive interaction patterns. My system must carry forward this legacy.
 
 
-### Design Principle 2: Offline Reliability
+### Design Principle 2: Offline-first & Reliability
 
 Technology should serve people, not enslave them. Hardware devices (or business strategies) that force users into frequent updates, cloud service subscriptions, or vendor lock-in are profoundly inhumane.
 
 Good devices should operate like my grandmother's radio and landline phone—working silently in the background, unnoticed yet consistently reliable. My ideal smart home system resembles traditional appliances: anyone can install it, it lasts for years once set up, and it's easy to repair or replace.
 
-Therefore, it should be modular, making no critical decisions dependent on cloud services. All data resides locally. The vast majority of interactions utilize mechanical components (buttons, knobs, light/sound/vibration feedback) to ensure stable operation in offline environments.
+Therefore, it should has modularity, making no critical decisions dependent on cloud services. All data resides locally. The vast majority of interactions utilize mechanical components (buttons, knobs, light/sound/vibration feedback) to ensure stable operation in offline environments.
 
 
 ### Design Principle Three: Open Source & Sovereignty

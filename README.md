@@ -1,5 +1,7 @@
 # Concept and Prototype for the “Retrofuturism” Age-Friendly Smart Home Project
 
+[中文版](README_ZH.md) is available.
+
 ### Overview: This project aims to build a modular smart home system prototype centered on offline operation and grounded in “retrofuturism” philosophy. It serves elderly users through minimalist physical interactions, adhering to core engineering principles of open-source design, reliability, and repairability.
 
 ## Motivation and Concept

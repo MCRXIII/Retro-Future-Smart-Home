@@ -62,6 +62,11 @@ Offline Communication: 4G Module | Physical Interaction: Physical Buttons, Rotar
 
 ### Phase Three: Expansion and Deepening - Focusing on Architecture and Experience to Make Technology Truly Serve People
 
-Sensing Expansion: Millimeter-wave radar, infrared array | Actuator
+Perception Expansion: Millimeter-wave radar, infrared arrays | Actuator Units: Relay modules, smart sockets | Local Hub: Raspberry Pi/old smartphones
 
-Translated with DeepL.com (free version)
+### Goal: Expand the system's perception and execution capabilities, explore a locally centralized hub architecture, and achieve more complex scenario-based automation.
+
+## Regarding Program Annotations and Explanatory Documentation: Chinese will be prioritized during the prototyping phase to ensure development speed and accuracy of explanations. Subsequent software configurations and critical interface documentation will be translated in the future.
+
+## This repository will evolve alongside project iterations, comprehensively documenting every thought, line of code, and failure from prototype to product. This represents my initial practice of the engineering principles I firmly believe in: openness, low cost, reproducibility, and verifiability.
+

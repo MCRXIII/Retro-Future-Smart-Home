@@ -13,4 +13,4 @@ Automate tasks rather than relying on user input whenever possible.
 Keep things simple—don’t overcomplicate them with complex rules. 
 And: smart technology is meant to lower the barrier to entry, not increase the learning curve.
 
-## This is merely an experimental project from my college days. Many of the ideas are still in their early stages and have not yet been fully implemented.
+### This is merely an experimental project from my college days. Many of the ideas are still in their early stages and have not yet been fully implemented.

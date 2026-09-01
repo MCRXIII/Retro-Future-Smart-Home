@@ -1,4 +1,4 @@
-# “Retro-Futuristic” Smart Home Project
+# Retro Future Smart Home Project
 
 What is this? 
 A beginner’s hands-on project and reflections by a college student majoring in IoT. A smart home system based on mechanical structures, microcontrollers, and edge computing.
